@@ -1,7 +1,7 @@
 # 👨‍💻João Pedro Carvalho 
 
 ### 🎓 Acadêmico de Sistemas de Informação na UFOPA
-Apaixonado por resolver problemas através do código e transformar ideias em projetos funcionais.
+Desenvolvedor focado na resolução de problemas por meio da programação e na criação de soluções funcionais.
 
 - 🔭 Atualmente buscando oportunidades na área de tecnologia (Desenvolvimento/Estágio).
 
