@@ -18,7 +18,6 @@ Desenvolvedor focado na resolução de problemas por meio da programação e na 
 ### 🛠 Tecnologias e Ferramentas
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
-![php](https://skillicons.dev/icons?i=php&theme=dark)
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=javascript)
