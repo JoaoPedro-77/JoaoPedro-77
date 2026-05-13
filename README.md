@@ -5,7 +5,7 @@ Desenvolvedor focado na resolução de problemas por meio da programação e na 
 
 - 🔭 Atualmente buscando oportunidades na área de tecnologia (Desenvolvimento/Estágio).
 
-- 🌱 Aprendendo: React, Spring Boot, Bancos de dados e Boas práticas de Clean Code.
+- 🌱 Aprendendo: React, Node, Bancos de dados e Boas práticas de Clean Code.
 - 📍 Localizado em: Santarém, Pará.
 
 
@@ -17,7 +17,6 @@ Desenvolvedor focado na resolução de problemas por meio da programação e na 
 
 ### 🛠 Tecnologias e Ferramentas
 
-![Java](https://skillicons.dev/icons?i=java&theme=light)
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=javascript)
